@@ -7,6 +7,7 @@ namespace NetCoreApi.Controllers
     [Route("clients")]
     public class ClientControler : ControllerBase
     {
+        //Listar Mediante Metodo Get
         [HttpGet]
         [Route("Listar")]
         public dynamic listClients()
@@ -31,6 +32,7 @@ namespace NetCoreApi.Controllers
             return client;
         }
 
+        //Listar los Clientes por Id con fin de mejor manipulacion
         [HttpGet]
         [Route("ListarPorId")]
         public dynamic listClientsforId(int codigo)
@@ -46,6 +48,7 @@ namespace NetCoreApi.Controllers
         }
 
 
+        //Metodo de guardado Post
         [HttpPost]
         [Route("save")]
         public dynamic saveClients(Client client)
@@ -60,6 +63,7 @@ namespace NetCoreApi.Controllers
             };
         }
 
+        //Metodo de Borrado mediante un post y Un Header y Tokken
         [HttpPost]
         [Route("Delete")]
         public dynamic DeleteClient(Client client)
