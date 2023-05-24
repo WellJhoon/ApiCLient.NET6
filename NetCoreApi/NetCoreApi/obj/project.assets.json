@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\jhon-\\Source\\Repos\\WellJhoon\\ApiCLient.NET6\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
       "projectName": "NetCoreApi",
-      "projectPath": "D:\\Visual Studio\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
+      "projectPath": "C:\\Users\\jhon-\\Source\\Repos\\WellJhoon\\ApiCLient.NET6\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
       "packagesPath": "C:\\Users\\jhon-\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\NetCoreApi\\NetCoreApi\\obj\\",
+      "outputPath": "C:\\Users\\jhon-\\Source\\Repos\\WellJhoon\\ApiCLient.NET6\\NetCoreApi\\NetCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhon-\\AppData\\Roaming\\NuGet\\NuGet.Config",

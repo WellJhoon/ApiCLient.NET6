@@ -30,3 +30,35 @@ D:\Visual Studio\NetCoreApi\NetCoreApi\obj\Debug\net6.0\refint\NetCoreApi.dll
 D:\Visual Studio\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.pdb
 D:\Visual Studio\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.genruntimeconfig.cache
 D:\Visual Studio\NetCoreApi\NetCoreApi\obj\Debug\net6.0\ref\NetCoreApi.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\appsettings.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\NetCoreApi.exe
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\NetCoreApi.deps.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\NetCoreApi.runtimeconfig.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\NetCoreApi.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\NetCoreApi.pdb
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.csproj.AssemblyReference.cache
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.AssemblyInfoInputs.cache
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.AssemblyInfo.cs
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.NetCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCoreApi.props
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreApi.props
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCoreApi.props
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\scopedcss\bundle\NetCoreApi.styles.css
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.csproj.CopyComplete
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\refint\NetCoreApi.dll
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.pdb
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\NetCoreApi.genruntimeconfig.cache
+C:\Users\jhon-\Source\Repos\WellJhoon\ApiCLient.NET6\NetCoreApi\NetCoreApi\obj\Debug\net6.0\ref\NetCoreApi.dll
